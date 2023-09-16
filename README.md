@@ -22,5 +22,4 @@ A responsive website that displays available books in the store, along with thei
 
 
 
-###Website Link :
-<a href="http://shivangibookshop.byethost7.com">http://shivangibookshop.byethost7.com</a>
+
