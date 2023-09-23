@@ -386,17 +386,19 @@ if(isset($_POST['submit']))
               <div class="col-sm-4 col-md-3 col-lg-3 text-center">
                   <h2 style="color:#D67B22;">Follow Us At</h2>
                   <div>
-                      
+                     
                       <img title="Twitter" alt="Twitter" src="img/social/twitter.png" width="35" height="35" />
                       </a>
-                    
+                      
                       <img title="LinkedIn" alt="LinkedIn" src="img/social/linkedin.png" width="35" height="35" />
                       </a>
                      
                       <img title="Facebook" alt="Facebook" src="img/social/facebook.png" width="35" height="35" />
-                      </a>                      <img title="google+" alt="google+" src="img/social/google.jpg" width="35" height="35" />
                       </a>
-                    
+                      
+                      <img title="google+" alt="google+" src="img/social/google.jpg" width="35" height="35" />
+                      </a>
+                     
                       <img title="Pinterest" alt="Pinterest" src="img/social/pinterest.jpg" width="35" height="35" />
                       </a>
                   </div>
